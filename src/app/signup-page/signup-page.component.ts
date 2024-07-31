@@ -5,8 +5,6 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-signup-page',
-  standalone: true,
-  imports: [],
   templateUrl: './signup-page.component.html',
   styleUrl: './signup-page.component.css'
 })
